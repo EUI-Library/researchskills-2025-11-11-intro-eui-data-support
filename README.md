@@ -4,7 +4,7 @@ Training session by @simosacchi
 
 These slides are released under a [Creative Commons Attribution International 4.0](https://creativecommons.org/licenses/by/4.0/) licence. Any feedback and reuse of content is welcome!
 
-* Web version: []()
+* Web version: [https://eui-library.github.io/researchskills-2025-11-11-intro-eui-data-support/](https://eui-library.github.io/researchskills-2025-11-11-intro-eui-data-support/)
 * GitHub repo: [https://github.com/EUI-Library/researchskills-2025-11-11-intro-eui-data-support](https://github.com/EUI-Library/researchskills-2025-11-11-intro-eui-data-support)
 
 Slides have been prepared adapting the demo slides for working with [Revealjs](https://revealjs.com/) in [Quarto](https://quarto.org/).
